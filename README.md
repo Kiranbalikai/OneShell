@@ -51,9 +51,3 @@ Contributions are always welcome!
 If you find any issues or would like to suggest improvements, please submit an issue or pull request.
 
 
-## Authors
-
-- [@Kiran_Balikai](https://www.github.com/Kiran_Balikai)
-- [@Om_r](https://www.github.com/Kiran_Balikai)
-- [@Milind_Kanbargi](https://www.github.com/Kiran_Balikai)
-- [@Manoj_M](https://www.github.com/Kiran_Balikai)
